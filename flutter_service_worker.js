@@ -3,18 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "3a93bca50a407b1232f396c3f4d9cbbc",
+  "assets/AssetManifest.json": "10f38c584ff039be71c2c6bfae63aed0",
 "assets/assets/CONVOCOM.png": "9e9e1ec6da07ae4aadae1865adddf2a9",
 "assets/assets/CONVOCOM1.png": "09749602177a44026a7a8c862c52c470",
 "assets/assets/loading.json": "4802a81baa0498bd960df7c0919741d6",
 "assets/assets/PermanentMarker-Regular.ttf": "c863f8028c2505f92540e0ba7c379002",
 "assets/assets/person.json": "efa4b8fc6952c97763e2a4da47aa843c",
+"assets/assets/person.png": "e234f5556c7aa657fde4f4bff7d144cc",
 "assets/assets/Roboto-Black.ttf": "d6a6f8878adb0d8e69f9fa2e0b622924",
 "assets/assets/RobotoFlex-Regular.ttf": "4c784376ef1e456e9f5a3ddf3fe1c187",
 "assets/assets/warning.json": "0c8a33a674fc5c805f1c0cb7f213b3fb",
 "assets/FontManifest.json": "710ec6b69a5bea47856900084d3c9536",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "d256c21df5af331413081dc77da7c90f",
+"assets/NOTICES": "607105a36e468e17660eda7a282b9f93",
 "assets/packages/awesome_dialog/assets/flare/error.flr": "e3b124665e57682dab45f4ee8a16b3c9",
 "assets/packages/awesome_dialog/assets/flare/info.flr": "bc654ba9a96055d7309f0922746fe7a7",
 "assets/packages/awesome_dialog/assets/flare/info2.flr": "21af33cb65751b76639d98e106835cfb",
@@ -73,9 +74,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "5208287bc3847a6e8c90a966ece325c2",
 "icons/Icon-maskable-192.png": "9ab5e9c9c07419d638ff404dc4d873f6",
 "icons/Icon-maskable-512.png": "5208287bc3847a6e8c90a966ece325c2",
-"index.html": "42671b986da8d98aa55fd31c57049293",
-"/": "42671b986da8d98aa55fd31c57049293",
-"main.dart.js": "fcad21e53d90530a9560657862f9f553",
+"index.html": "7e0ddc460538c02a3bbb482f3ae5e403",
+"/": "7e0ddc460538c02a3bbb482f3ae5e403",
+"main.dart.js": "adabb2bc8d68a9b6474904066fd8dbfa",
 "manifest.json": "779b75067771465949d7c6d58f650022",
 "version.json": "3743a3532d1fa7bea8e610fdc3ceac07"
 };
